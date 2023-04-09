@@ -1,6 +1,6 @@
 # Steam-review-analysis
 
-Tool to get keywords from review dataset by using cluter and topic modeling.
+Tool to get keywords from review dataset by using cluter and topic modeling. <br />
 transformer(all-MiniLM-L6-v2) + HDBSCAN + LDA
 
 #### Dataset
